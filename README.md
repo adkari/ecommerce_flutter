@@ -2,17 +2,17 @@
 
 An ecommerce Flutter application using firebase with features including cart and search.
 
-#Login Page<br>
+# Login Page<br>
 <img height="480px" src="screenshots/login.jpg">
 
-#Home Page<br>
+# Home Page<br>
 <img height="480px" src="screenshots/home.jpg">
 
-#Product Page<br>
+# Product Page<br>
 <img height="480px" src="screenshots/product.jpg">   <img height="480px" src="screenshots/product2.jpg">
 
-#Cart<br>
+# Cart<br>
 <img height="480px" src="screenshots/cart.jpg">
 
-#Search<br>
+# Search<br>
 <img height="480px" src="screenshots/search.jpg">
